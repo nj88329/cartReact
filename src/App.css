@@ -1,0 +1,27 @@
+.box{
+ display: flex;
+ height: 300px;
+ 
+}
+
+.App{
+  margin-top: 180px;
+
+}
+
+.cart{
+    margin-top: 100px;
+}
+.nav{
+    height:10px;
+}
+
+    .card img{
+       height:300px;
+       width:300px;
+       margin: 10px;
+    }
+
+    .card img:hover{
+        zoom:1.05;
+    }
